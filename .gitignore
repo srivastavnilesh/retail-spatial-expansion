@@ -1,8 +1,21 @@
+# Virtual Environment
 .venv/
+venv/
+env/
+
+# Python
 __pycache__/
 *.py[cod]
-.DS_Store
-outputs/*.html
+*$py.class
+*.so
+
+# Database & Processed Data (Keep raw, ignore processed DB to save space, or keep if small)
 data/processed/*.db
-data/processed/*.sql
+data/processed/*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment Variables
 .env
