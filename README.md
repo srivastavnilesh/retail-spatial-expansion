@@ -1,4 +1,4 @@
-# Monday Koffee: Strategic Retail Expansion Analytics
+# Monday Coffee: Strategic Retail Expansion Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python">
@@ -65,4 +65,5 @@ graph LR
 If you found this project insightful, let's connect! I'm always open to discussing data engineering, analytics, and building scalable data products.
 
 LinkedIn: https://www.linkedin.com/in/srivastav-nilesh-4b909b446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoA3ipT%2B9TOK1lkH4L3oSfw%3D%3D
-Email: nileshsrivastava00@gmail.com
+
+Email: nileshsrivastava0@gmail.com
